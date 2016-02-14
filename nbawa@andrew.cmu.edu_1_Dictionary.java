@@ -1,7 +1,4 @@
-/**
- ******************************************************************************
- *                    HOMEWORK, 15-351/650
- ******************************************************************************
+/******************************************************************************
  *                    Amortized Dictionary
  ******************************************************************************
  *
@@ -9,15 +6,6 @@
  *
  * This data structure supports duplicates and does *NOT* support storage of
  * null references.
- *
- * Notes:
- * 		-It is *highly* recommended that you begin by reading over all the methods,
- *       all the comments, and all the code that has already been written for you.
- *
- * 		-the specifications provided are to help you understand what the methods
- *       are supposed to accomplish.
- * 		-See the lab documentation & recitation notes for implementation details.
- *
  *
  * User ID(s):nbawa
  *
